@@ -21,7 +21,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 ![GitHub Issues](https://img.shields.io/github/issues/k6zma/RubiksCube.svg)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/k6zma/RubiksCube.svg)
-![Stars](https://img.shields.io/github/stars/k6zma/CRubiksCube.svg)
+![Stars](https://img.shields.io/github/stars/k6zma/RubiksCube.svg)
 
 </div>
 
