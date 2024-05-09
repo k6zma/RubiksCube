@@ -149,6 +149,9 @@ Y Y Y
     - Следующий шаг: ESC
 
 ## Algorithm for solving the Rubik's Cube:
+Для разработки и реализации алгоритмов сборки использовался сайт с туториалом:
+https://cccstore.ru/school/kubik-rubika-3x3x3/beginners/
+
 Программа использует классический алгоритм для сборки Кубика Рубика, который делится на несколько этапов:
 
 1. **Сборка белого креста:**
@@ -591,8 +594,3 @@ Y Y Y
   GLfloat color[] = {1.0f, 0.0f, 0.0f}; // Красный цвет
   glColor3fv(color);
   glVertex3fv(vertex);
-
-<br>
-
-Для разработки и реализации алгоритмов сборки использовался сайт с туториалом:
-https://cccstore.ru/school/kubik-rubika-3x3x3/beginners/
