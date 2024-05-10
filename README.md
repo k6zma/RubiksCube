@@ -22,6 +22,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/k6zma/RubiksCube.svg)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/k6zma/RubiksCube.svg)
 ![Stars](https://img.shields.io/github/stars/k6zma/RubiksCube.svg)
+[![Project Time](https://wakatime.com/badge/user/a61b2181-3d29-486a-b232-a3254a04695d/project/c872bbde-ff39-44ac-ae54-07f790e4d666.svg)](https://wakatime.com/badge/user/a61b2181-3d29-486a-b232-a3254a04695d/project/c872bbde-ff39-44ac-ae54-07f790e4d666)
 
 </div>
 
